@@ -75,8 +75,16 @@ html, body {
 }
 
 @media (max-width: 767px) {
-  .browser {
+  section[aria-label*="tour"] .browser {
     display: none !important;
+  }
+  .browser {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+  }
+  .phone .screen {
+    padding-top: 14px !important;
   }
   .top {
     padding-left: 12px !important;
