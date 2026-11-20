@@ -82,6 +82,8 @@ vercel --prod
 
 - **Email:** itshydraaaaaa@gmail.com
 - **Location:** Ariana, Tunisia
+- **LinkedIn:** [chahin-alibi](https://www.linkedin.com/in/chahin-alibi)
+- **Instagram:** [@itshydraaaaaa](https://www.instagram.com/itshydraaaaaa/)
 - **GitHub:** [@itshydraaaaaa](https://github.com/itshydraaaaaa)
 
 ---
