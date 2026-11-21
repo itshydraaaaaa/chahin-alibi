@@ -108,3 +108,16 @@ html, body {
     letter-spacing: 0.02em !important;
   }
 }
+
+/* Mobile & Responsiveness Enhancements */
+.phone:before {
+  display: none !important;
+}
+.phone .screen {
+  border-radius: 28px !important;
+  overflow: hidden !important;
+  padding-top: 0 !important;
+}
+header.wrap:not(.top) {
+  padding-top: calc(env(safe-area-inset-top, 0px) + clamp(90px, 12vw, 150px)) !important;
+}
